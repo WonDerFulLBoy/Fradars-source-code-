@@ -1,0 +1,2000 @@
+<!DOCTYPE html>
+<html lang="en">
+<!––
+
+        oooooooooooo                              oooooooooo.
+        `888'     `8                              `888'   `Y8b
+         888          .oooo.   oooo d8b  .oooo.    888      888  .oooo.   oooo d8b  .oooo.o
+         888oooo8    `P  )88b  `888""8P `P  )88b   888      888 `P  )88b  `888""8P d88(  "8
+         888    "     .oP"888   888      .oP"888   888      888  .oP"888   888     `"Y88b.
+         888         d8(  888   888     d8(  888   888     d88' d8(  888   888     o.  )88b
+        o888o        `Y888""8o d888b    `Y888""8o o888bood8P'   `Y888""8o d888b    8""888P'
+
+
+        We are hiring. Join us!
+        https://faradars.org/jobs
+
+––>
+
+	<head>
+		<script src="https://www.googleoptimize.com/optimize.js?id=OPT-53M9B9M"></script>
+        <link rel="stylesheet" href="/theme/display/ilishop/css/dropdown.bootstrap.min.css?v=1.1.57" preload >
+                    <title>فرادرس – بزرگترین منبع فیلم های آموزشی دانشگاهی و مهندسی </title>
+        		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<meta name="description" content="بزرگ ترین پروژه آموزش آنلاین ایران - ارائه آموزش‌های ویدئویی و فیلم‌های آموزشی هوش مصنوعی، مهندسی کامپیوتر، برق، مکانیک، عمران، صنایع و سایر رشته‌های مهندسی" />
+		<meta itemprop="name" content="فرادرس – بزرگترین منبع فیلم های آموزشی دانشگاهی و مهندسی " />
+
+		<meta property="og:title" content="فرادرس – بزرگترین منبع فیلم های آموزشی دانشگاهی و مهندسی" />
+		<meta property="og:description" content="بزرگ ترین پروژه آموزش آنلاین ایران - ارائه آموزش‌های ویدئویی و فیلم‌های آموزشی هوش مصنوعی، مهندسی کامپیوتر، برق، مکانیک، عمران، صنایع و سایر رشته‌های مهندسی" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:description" content="بزرگ ترین پروژه آموزش آنلاین ایران - ارائه آموزش‌های ویدئویی و فیلم‌های آموزشی هوش مصنوعی، مهندسی کامپیوتر، برق، مکانیک، عمران، صنایع و سایر رشته‌های مهندسی" />
+		<meta name="twitter:title" content="فرادرس – بزرگترین منبع فیلم های آموزشی دانشگاهی و مهندسی" />
+
+		<meta itemprop="image" content="https://faradars.org/wp-content/uploads/2021/06/06/faradars-logo-2.png" />
+		<meta property="og:image" content="https://faradars.org/wp-content/uploads/2021/06/06/faradars-logo-2.png" />
+		<meta property="og:image:secure_url" content="https://faradars.org/wp-content/uploads/2021/06/06/faradars-logo-2.png" />
+		<meta name="twitter:image" content="https://faradars.org/wp-content/uploads/2021/06/06/faradars-logo-2.png" />
+
+		<meta name="twitter:domain" content="faradars.org">
+		<meta name="twitter:site" content="@faradars">
+
+
+		<meta property="og:site_name" content="FaraDars">
+		<meta property="og:locale" content="fa_IR">
+
+		<meta name="robots" content="index">
+
+		
+					<link rel="canonical" href="https://faradars.org" />
+			<meta itemprop="url" content="https://faradars.org" />
+			<meta property="og:url" content="https://faradars.org" />
+			<meta name="twitter:url" content="https://faradars.org" />
+
+		
+
+
+		<meta property="og:locale" content="fa_IR">
+		<meta property="og:type" content="website">
+		<meta property="og:site_name" content="فرادرس">
+		<meta name="twitter:card" content="summary">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="HandheldFriendly" content="true">
+
+        
+		<link rel="shortcut icon" href="https://faradars.org/wp-content/uploads/2020/05/favicon2.png" type="image/x-icon" />
+		<link rel="stylesheet" href="https://faradars.org/theme/display/ilishop/css/swiper-bundle.min.css"  >
+		<link rel="stylesheet" href="https://faradars.org/theme/display/ilishop/css/toastr.min.css"  >
+		<link rel="stylesheet" href="https://faradars.org/theme/display/ilishop/font-awesome/css/all.min.css?v=1.1.57" preload >
+		<link rel="stylesheet" href="https://faradars.org/theme/display/ilishop/font/faradars-icon/style.css?v=1.1.57" preload >
+
+		<link rel="stylesheet" href="/theme/display/ilishop/css/style.css?v=1.1.57" preload >
+
+					<script type="text/javascript">
+				!function(){var a=window,d=document;function g(){var g=d.createElement("script"),s="https://www.goftino.com/widget/KUN6aK",l=localStorage.getItem("goftino");g.type="text/javascript",g.async=!0,g.referrerPolicy="no-referrer-when-downgrade",g.src=l?s+"?o="+l:s;d.getElementsByTagName("head")[0].appendChild(g);}"complete"===d.readyState?g():a.attachEvent?a.attachEvent("onload",g):a.addEventListener("load",g,!1);}();
+			</script>
+
+			<script>
+                if(window.innerWidth<769){
+                    window.addEventListener('goftino_ready', function () {
+                        
+                        															Goftino.setWidget({
+									marginBottom: 55,
+								});
+							                                            });
+                }
+				
+
+			</script>
+		
+		<script>
+			var _paq = window._paq = window._paq || [];
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="//analysis.faradars.org/";
+				_paq.push(['setTrackerUrl', u+'matomo.php']);
+				_paq.push(['setSiteId', '1']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-50789780-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+
+		
+        
+
+    </head>
+
+<body  >
+	<div id="preload">
+		<div class="p-logo"></div>
+	</div>
+	<div id="application">
+		<div>
+			<div>
+				<header class="fixed-top">
+				<style>
+						strong { font-weight: bold; }
+				</style>
+					                    <style>
+        @font-face {
+            font-family: Shab;
+            src: url('https://faradars.org/theme/display/ilishop/font/Shabnam-FD-WOL.woff2');
+        }
+
+
+
+        .banner_primary {
+            position: relative;
+            background-color: #ffe6e6;
+            overflow: hidden;
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            width: 100%;
+            font-family: "Shab" !important;
+            font-size: 16px;
+        }
+
+        .wrapper {
+            max-width: 1200px;
+            width: 100%;
+            display: flex;
+            margin-right: auto;
+            margin-left: auto;
+            flex-grow: 1;
+            align-items: center;
+            /*justify-banner_inside: space-around;*/
+            flex-wrap: wrap;
+            font-size: 16px;
+        }
+
+        .close_banner {
+            position: absolute;
+            right: 2px;
+            top: 0;
+            font-size: 24px;
+            line-height: 1;
+        /* opacity: .6;*/
+            color:#fff;
+            cursor: pointer;
+            padding: 2px;
+            z-index:1;
+        }
+
+        .close_banner:hover {
+            color: white;
+            opacity: 1;
+        }
+
+        .banner_inside {
+            width: calc(100% - 275px);
+            height: 100%;
+            display: flex;
+            text-align: center;
+            align-items: center;
+            font-size: 20px;
+
+        }
+
+        .banner_inside img {
+            width: 100% !important;
+            /* height: 92px !important; */
+            object-fit: scale-down !important;
+        }
+
+
+        .countdown .bloc-time {
+            float: left !important;
+            margin-right: 6px !important;
+            text-align: center !important;
+        }
+
+        .countdown .bloc-time:last-child {
+            margin-right: 0 !important;
+        }
+
+        .countdown .count-title {
+            /*opacity: .7;*/
+            font-size: 14px !important;
+            line-height: 1.7 !important;
+            color:#000 !important;
+        }
+
+        .countdown .figure {
+            position: relative !important;
+            float: left !important;
+            width: 26px !important;
+            margin-right: 2px !important;
+            background-color: #fff !important;
+            border-radius: 3px;
+            -moz-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15), inset 1px 2px 0 0 rgba(255, 255, 255, 0.08);
+            -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15), inset 1px 2px 0 0 rgba(255, 255, 255, 0.08);
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15), inset 1px 2px 0 0 rgba(255, 255, 255, 0.08);
+        }
+
+        .countdown .figure:last-child {
+            margin-right: 0;
+        }
+
+        .countdown .figure > span {
+            position: absolute;
+            left: 0;
+            right: 0;
+            margin: auto;
+            font-size: 20px;
+            line-height: 1.4;
+            font-weight: 600;
+        }
+
+        #clockdiv {
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        #clockdiv .title-l {
+            text-align: center;
+            margin-bottom: 8px;
+            color:#000 !important;
+
+        }
+
+
+        .countdown .figure .top:after,
+        .countdown .figure .bottom-back:after {
+            banner_inside: "";
+            position: absolute;
+            z-index: -1;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .countdown .figure .top {
+            z-index: 3;
+            background-color: #f6f6f6 !important;
+            transform-origin: 50% 100%;
+            -webkit-transform-origin: 50% 100%;
+            -moz-border-radius-topleft: 3px;
+            -webkit-border-top-left-radius: 3px;
+            border-top-left-radius: 3px;
+            -moz-border-radius-topright: 3px;
+            -webkit-border-top-right-radius: 3px;
+            border-top-right-radius: 3px;
+            -moz-transform: perspective(200px);
+            -ms-transform: perspective(200px);
+            -webkit-transform: perspective(200px);
+            transform: perspective(200px);
+        }
+
+        .countdown .figure .bottom {
+            z-index: 1;
+        }
+
+        .countdown .figure .bottom:before {
+            banner_inside: "";
+            position: absolute;
+            display: block;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 50%;
+            background-color: rgba(0, 0, 0, 0.02);
+        }
+
+        .countdown .figure .bottom-back {
+            z-index: 2;
+            top: 0;
+            height: 50%;
+            overflow: hidden;
+            background-color: #f7f7f7;
+            -moz-border-radius-topleft: 3px;
+            -webkit-border-top-left-radius: 3px;
+            border-top-left-radius: 3px;
+            -moz-border-radius-topright: 3px;
+            -webkit-border-top-right-radius: 3px;
+            border-top-right-radius: 3px;
+        }
+
+        .countdown .figure .bottom-back span {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+
+        .countdown .figure .top,
+        .countdown .figure .top-back {
+            height: 50%;
+            overflow: hidden;
+            -moz-backface-visibility: hidden;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+
+        .countdown .figure .top-back {
+            z-index: 4;
+            bottom: 0;
+            background-color: #fff;
+            -webkit-transform-origin: 50% 0;
+            transform-origin: 50% 0;
+            -moz-transform: perspective(200px) rotateX(180deg);
+            -ms-transform: perspective(200px) rotateX(180deg);
+            -webkit-transform: perspective(200px) rotateX(180deg);
+            transform: perspective(200px) rotateX(180deg);
+            -moz-border-radius-bottomleft: 3px;
+            -webkit-border-bottom-left-radius: 3px;
+            border-bottom-left-radius: 3px;
+            -moz-border-radius-bottomright: 3px;
+            -webkit-border-bottom-right-radius: 3px;
+            border-bottom-right-radius: 3px;
+        }
+
+
+        .countdown .figure .top-back span {
+            position: absolute;
+            top: -100%;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+
+        @media  only screen and (max-width: 340px) {
+            .countdown .figure {
+                height: 20px !important;
+                width: 20px !important;
+            }
+        }
+
+        @media  only screen and (max-width: 375px) {
+
+            .banner_inside > * {
+                display: none;
+            }
+            .img-xsmall {
+                display: block;
+                height: 60px !important;
+            }
+            .banner_primary_banner{
+                height: 95px ;
+                max-height: 95px !important;
+            }
+            .count-title{
+                display: block !important;
+            }
+
+            .countdown .figure {
+                height: 20px !important;
+            }
+            .countdown .count-title {
+                line-height: 0.3 !important;
+            }
+
+        }
+        @media  only screen and (min-width: 375px) {
+            .banner_inside > * {
+                display: none;
+            }
+
+            .img-small {
+                display: block;
+                height: 60px !important;
+            }
+            .banner_primary_banner{
+                height: 95px;
+                max-height: 95px !important;
+            }
+            .count-title{
+                display: block !important;
+            }
+            .countdown .figure {
+                height: 20px !important;
+            }
+            .countdown .count-title {
+                line-height: 0.5 !important;
+            }
+
+        }
+
+        @media  only screen and (min-width: 620px) {
+
+            .banner_inside > * {
+                display: none;
+            }
+            .img-medium {
+                display: block;
+                height: 80px !important;
+                margin-bottom: -10px;
+            }
+            .banner_primary_banner {
+                 height: 85px;
+                 max-height: 85px !important;
+                 display: flex;
+                 align-items: center;
+                 /* width: 100%; */
+                 justify-content: space-around; }
+            .count-title{
+                display: block !important;
+                margin-left: -9px
+            }
+            .time_seperator{
+                font-weight: bold;
+                font-size: large;
+                padding-left: 3.5px;
+
+            }
+            .time_second{
+                font-weight: bold;
+                font-size: large;
+            }
+            .countdown .figure {
+                height: 26px !important;
+            }
+            .countdown .count-title {
+                line-height: 1.5 !important;
+            }
+        }
+        @media  only screen and (max-width: 620px) {
+            .title-l{
+                font-size: 11px;
+            }
+            .time_seperator{
+                font-weight: bold;
+                font-size: large;
+                padding-left: 3.5px;
+                position: relative;
+                top: -3px;
+
+            }
+            .time_second{
+                font-weight: bold;
+                font-size: large;
+                padding-left: 3.5px;
+                position: relative;
+                top: -3px;
+
+            }
+            .countdown .count-title {
+                margin-left: -8px;
+            }
+
+        }
+        @media  only screen and (max-width: 620px) {
+            .countdown .figure > span {
+                font-size: 16px;
+                line-height: 1.4;
+
+            }
+
+            .countdown .figure {
+                height: 22px !important;
+                width: 20px !important;
+            }
+
+            .countdown .count-title {
+                display: block;
+
+            }
+            .countdown .count-title {
+                /*opacity: .7;*/
+                font-size: 10px !important;
+                /*line-height: 1.5 !important;*/
+                color:#000 !important;
+            }
+
+            #clockdiv {
+                /*margin-top: 3px;*/
+                flex-direction: row;
+            }
+
+            #clockdiv .title-l {
+                margin-left: 16px;
+                margin-bottom: 0;
+            }
+
+            .banner_inside {
+                width: 100%;
+            }
+
+            .banner_inside img {
+                width: 100%;
+                height: 60px;
+            }
+
+        }
+
+
+        /*@media  only screen and (min-width: 620px) {*/
+        /*    .banner_inside > * {*/
+        /*        display: none;*/
+
+        /*    }*/
+
+        /*    .img-large {*/
+        /*        display: block;*/
+        /*        !* padding-left: 10% !important; *!*/
+        /*    }*/
+        /*    .banner_primary_banner{*/
+        /*        height: 92px;*/
+        /*        max-height: 92px !important;*/
+
+        /*    }*/
+        /*    .count-title{*/
+        /*        display: block !important;*/
+        /*    }*/
+        /*    .countdown .figure {*/
+        /*        height: 28px !important;*/
+        /*    }*/
+
+        /*}*/
+
+        @media  only screen and (min-width: 768px) {
+            .banner_inside > * {
+                display: none;
+                height: 92px !important;
+            }
+
+            .img-xlarge {
+                display: block;
+                /* padding-left: 10% !important; */
+            }
+            .banner_primary_banner{
+                height: 92px;
+                max-height: 92px !important;
+
+            }
+            .count-title{
+                display: block !important;
+            }
+            .countdown .figure {
+                height: 26px !important;
+            }
+
+        }
+
+        @media  only screen and (min-width: 992px) {
+            .banner_inside > * {
+                display: none;
+                margin-left: 10%;
+            }
+
+            .img-xxlarge {
+                display: block;
+                padding-left: 10% !important;
+            }
+            .banner_primary_banner{
+                height: 92px;
+                max-height: 92px !important;
+
+            }
+            .count-title{
+                display: block !important;
+            }
+            .countdown .figure {
+                height: 28px !important;
+            }
+        }
+
+        .dot_flower{
+            width:14px;
+            height:14px;
+            position:absolute;
+            background: url(https://faradars.org/wp-content/uploads/2021/03/12/petal.png);
+            background-size: 100% 100%;
+            z-index:100;
+            }
+
+        
+    </style>
+        <div class="close_banner close_festival" style="color:#000 !important; "
+                                                                    onclick="
+                                                                    $('.new_festival_banner').remove();
+                                                                    $('.close_festival').remove();
+                                                                    var scroll = $(window).scrollTop();
+                                                                                                                                        if(scroll > 200){
+                                                                        $('.sticky-inner-wrapper ').css('margin-top' , '-50px');
+                                                                        $('.card_header_product ').css('margin-top' , '-50px');
+                                                                    }
+                                                                    else{
+                                                                        $('.sticky-inner-wrapper ').css('margin-top' , '0px');
+                                                                        $('.card_header_product ').css('margin-top' , '0px');
+                                                                    }
+
+                                                                    
+                                                                     $('main').css('margin-top' , 50);
+                                                                                                                                        return void 0;">
+        ×
+    </div>
+        <div style="cursor: pointer;padding:0 5%;"
+                onclick="window.open('https://faradars.org/landing/eng45');"
+                class="banner_primary banner_primary_banner new_festival_banner" rel="noopener noreferrer"
+                id="banner_primary-banner"
+                data-time="2022/02/26 02:00:00 UTC+03:30"  >
+
+            <div id="flower_rain" class="sky ">
+                <div class="wrapper">
+                    <div class="row align-items-center">
+                    <div class="banner_inside">
+
+                        
+                                                    <img class="img-xxlarge internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-1000-92.svg" alt="">
+                            <img class="img-xlarge internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-792-92.svg" alt="">
+                            <img class="img-large internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-568-92.svg" alt="">
+                            <img class="img-medium internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-520-60.svg" alt="">
+                            <img class="img-small internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-375-60 - 2.svg" alt="">
+                            <img class="img-xsmall internal_header" src="https://faradars.org/wp-content/uploads/2022/02/23/heder-375-60 - 1.svg" alt="">
+                                            </div>
+                                        <div id="clockdiv" class="">
+                        <div class="title-l">فرصت باقیمانده</div>
+                            <div class="countdown">
+                            <div class="bloc-time days" data-init-value="0">
+                                <div class="figure days days-1" id="day">
+                                    <span class="top"></span>
+                                    <span class="top-back"><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+                                <div class="figure days days-2">
+                                    <span class="top"></span>
+                                    <span class="top-back"><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+                                <span class="time_seperator">:</span>
+                                <span class="count-title">روز</span>
+                            </div>
+
+                            <div class="bloc-time hours" data-init-value="0">
+
+                                <div class="figure hours hours-1" id="hour">
+                                    <span class="top" style="transform: perspective(300px);"></span>
+                                    <span class="top-back" style=""><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+
+                                <div class="figure hours hours-2">
+                                    <span class="top" style="transform: perspective(300px);"></span>
+                                    <span class="top-back" style=""><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+                                <span class="time_seperator">:</span>
+                                <span class="count-title" >ساعت</span>
+
+                            </div>
+
+                            <div class="bloc-time min" data-init-value="0">
+
+                                <div class="figure min min-1" id="min">
+                                    <span class="top" style="transform: perspective(300px);"></span>
+                                    <span class="top-back" style=""><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+
+                                <div class="figure min min-2">
+                                    <span class="top" style="transform: perspective(300px);"></span>
+                                    <span class="top-back" style=""><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+                                <span class="time_seperator">:</span>
+                                <span class="count-title" >دقیقه</span>
+                            </div>
+
+                            <div class="bloc-time sec" data-init-value="0">
+
+                                <div class="figure sec sec-1" id="sec">
+                                    <span class="top" style="transform: perspective(300px);"></span>
+                                    <span class="top-back" style=""><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+
+                                <div class="figure sec sec-2">
+                                    <span class="top" style="transform: perspective(300px) translate3d(0px, 0px, 0px) rotateX(-129.58deg);"></span><span class="top-back" style="transform: perspective(271.989px) translate3d(0px, 0px, 0px) rotateX(50.4202deg);"><span></span></span>
+                                    <span class="bottom"></span>
+                                    <span class="bottom-back"><span></span></span>
+                                </div>
+                                <span class="time_second"></span>
+
+                                <span class="count-title" > ثانیه</span>
+
+                            </div>
+                        </div>
+                    </div>
+                                        </div>
+                </div>
+                <canvas width="1920" height="85" style="position: absolute; top: 0px; left: 0px;"></canvas>
+            </div>
+        </div>
+        
+
+                    <script src="https://faradars.org/theme/display/ilishop/js/timer.embed.js?v=3" ></script>
+        
+    <script>
+        // TweenLite.set("#flower_rain",{perspective:600})
+        // var total = 240;
+        // var warp = document.getElementById("flower_rain"),	w = window.innerWidth+200 , h = window.innerHeight;
+
+        // for (i=0; i<total; i++){
+        // var Div = document.createElement('div');
+        // TweenLite.set(Div,{attr:{class:'dot_flower'},x:R(-2000,w),y:R(-200,-150),z:R(-200,200)});
+        // warp.appendChild(Div);
+        // animm(Div);
+        // }
+
+        // function animm(elm){
+        //     TweenMax.to(elm, R(10, 40), { y: h + 100, ease: Linear.easeNone, repeat: -1, delay: -300 });
+        //     TweenMax.to(elm, R(20, 40), { x: '+=100', rotationZ: R(0, 180), repeat: -1, yoyo: true, ease: Sine.easeInOut });
+        //     TweenMax.to(elm, R(10, 40), { rotationX: R(0, 360), rotationY: R(0, 360), repeat: -1, yoyo: true, ease: Sine.easeInOut, delay: -300 });
+        // };
+
+        // function R(min,max) {return min+Math.random()*(max-min)};
+    </script>
+    
+
+                        
+
+					<form action="https://faradars.org/search" method="get" >
+						<input type="hidden" name="ref" value="header_search">
+						<nav id="tnb" class="navbar navbar-expand-lg navbar-dark bg-dark">
+							<div class="container">
+								<a class="navbar-brand mx-0 ml-2 ml-sm-4" href="/">
+									<img width="106" alt="فرادرس" height="28" src="/theme/display/ilishop/media/logo.b64ba408.svg">
+								</a>
+
+
+
+								<a class="mr-2 text-white btn-sm btn-outline-primary btn btnAllCourse head-navbar-explore" href="/explore">همه آموزش‌ها</a>
+                                <div class="">
+
+                                </div>
+                                <div class="collapse navbar-collapse collapse-responsive">
+                                    <div>
+                                        <div class="form-inline search position-relative mx-lg-2 mx-0 mt-3 mt-lg-0">
+                                            <div class="w-100 mb-md-0 mb-2 form-group">
+                                                <div class="d-flex finder w-100">
+                                                    <div class="input d-inline w-100 ">
+														<input autocomplete="off" placeholder="جستجوی آموزش ..."
+															class="form-control form-control-sm" name="q" id="q" value="">
+														
+															<div id="myDropdown" class="searchDropdown-content">
+																																																<br>
+																
+																																
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="فتوشاپ"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%81%D8%AA%D9%88%D8%B4%D8%A7%D9%BE">فتوشاپ</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="پایتون"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86">پایتون</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="زبان انگلیسی"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B2%D8%A8%D8%A7%D9%86%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C">زبان انگلیسی</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="حسابداری"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C">حسابداری</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="اکسل"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%DA%A9%D8%B3%D9%84">اکسل</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="متلب"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%85%D8%AA%D9%84%D8%A8">متلب</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="ریاضی"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C">ریاضی</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="اتوکد"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%D8%AA%D9%88%DA%A9%D8%AF">اتوکد</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="ارز دیجیتال"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%D8%B1%D8%B2%20%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84">ارز دیجیتال</a>
+																		</span>
+																																			<span class="popular_search_layout">
+																			<a class="repeated_search repeated_search_platforms popular_search" data-toggle="tooltip" data-placement="top" title="شیمی"
+																				href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B4%DB%8C%D9%85%DB%8C">شیمی</a>
+																		</span>
+																																		<br>
+																	<br>
+																															</div>
+														
+                                                	</div>
+                                                    <button type="submit" class="btn mx-1 btn-sm btn-primary">
+                                                        <i class="fa fa-search" ></i>
+                                                    </button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class=" flex-grow-0 mr-auto">
+                                        <ul class="navbar-nav mt-lg-0 mt-1 justify-content-center">
+                                            <li class="nav-item">
+                                                <a href="/teaching" target="_blank" class="nav-link head-navbar-teaching">تدریس در فرادرس</a>
+                                            </li>
+                                                                                            <li class="nav-item">
+                                                    <a class="nav-link" href="https://faradars.org/login">ورود</a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="https://faradars.org/register"> ثبت نام</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                                <div class="user mr-auto d-flex align-items-center">
+                                    
+
+                                    <div class="anime slide-in-blink mr-2 cartSection  none ">
+                                        <a class="btn-group anime fade-in head-navbar-cart" href="https://faradars.org/cart">
+                                            <button  type="button" class="btn-sm btn btn-secondary active cartCount" style="min-width: 36px;">
+                                                ۰
+                                            </button>
+                                            <button type="button" class="btn btn-success btn-sm btn btn-secondary">سبد</button>
+                                        </a>
+                                    </div>
+
+                                </div>
+                                <button type="button" class="p-0 border-0 mr-2 navbar-toggler"><span class="navbar-toggler-icon"></span></button>
+                            </div>
+						</nav>
+					</form>
+					<div class="global-message"></div>
+
+				</header>
+                                                    <style>
+                        @media (max-width: 768px) {
+                            .breadcrumb {
+                                margin-top: -10px;
+                            }
+                        }
+
+                        @media (max-width: 619px) {
+                            .breadcrumb {
+                                margin-top: 0;
+                            }
+                        }
+
+                    </style>
+                                <main class="margin_handle" style="margin-top: 140px; min-height: calc((100vh - 312px) - 50px); background-color: transparent;">
+                    
+	<main style="margin-top: 50px; min-height: calc((100vh - 312px) - 50px); background-color: transparent;">
+		<div class="home">
+			<div class="py-2 pb-lg-5 hero">
+				<div class="overlay"></div>
+				<div class="align-items-center container">
+					<div class="my-3 row">
+						<div class="order-lg-0 order-1 mt-3 mt-lg-0 col-12 col-lg-12">
+							<h3 class="hero-description text-center">در بین هزاران ساعت آموزش فرادرسی جستجو کنید و به جمع میلیونی دانشجویان فرادرس بپیوندید.
+						</h3>
+						</div>
+					</div>
+					<div class="justify-content-center my-3 row">
+						<div class="col-12 col-xl-6 col-lg-7">
+							<div class="form-group">
+								<div class="finder w-100">
+									<div class="input w-100 ">
+										<form id="home-search-form" action="https://faradars.org/search" method="get" class="input-group">
+											<input type="hidden" name="ref" value="homepage_search">
+											<input type="text" placeholder="جستجوی آموزش ..." name="q"  class="form-control">
+											<button type="submit" class="btn btn-success mr-2 ml-2">جستجو</button>
+										</form>
+										<div class="mt-4 popular-searches">
+																																											
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B2%D8%A8%D8%A7%D9%86%20%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C">زبان انگلیسی</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%D8%B1%D8%B2%20%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84">ارز دیجیتال</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%DA%A9%D8%B3%D9%84">اکسل</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%A7%D8%AA%D9%88%DA%A9%D8%AF">اتوکد</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C">ریاضی</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86">پایتون</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B4%DB%8C%D9%85%DB%8C">شیمی</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%AD%D8%B3%D8%A7%D8%A8%D8%AF%D8%A7%D8%B1%DB%8C">حسابداری</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%81%DB%8C%D8%B2%DB%8C%DA%A9">فیزیک</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%81%D8%AA%D9%88%D8%B4%D8%A7%D9%BE">فتوشاپ</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D8%B2%D8%A8%D8%A7%D9%86">زبان</a>
+																																	
+												<a class="repeated_search repeated_search_platforms" href="https://faradars.org/search?ref=frequent_terms&amp;q=%D9%85%D8%AA%D9%84%D8%A8">متلب</a>
+																																										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+											<div class="justify-content-center my-3 row hero-description text-center main-statistics-row">
+															<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number categoriesCount" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۱۱۰</span>
+									<span class="statistics-title">
+										حوزه تخصصی
+									</span>
+								</div>
+																						<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۴,۷۰۰</span>
+									<span class="statistics-title">
+									عنوان ‌آموزشی
+									</span>
+								</div>
+																						<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۱۸,۰۰۰</span>
+									<span class="statistics-title">
+										ساعت آموزش
+									</span>
+								</div>
+																						<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۱,۲۰۰,۰۰۰</span>
+									<span class="statistics-title">
+										نفر دانشجو
+									</span>
+								</div>
+																						<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۱,۴۰۰</span>
+									<span class="statistics-title">
+										نفر مدرس
+									</span>
+								</div>
+																						<div class="col-lg-2 col-sm-4">
+									<span class="statistics-number" data-from="0" data-to="" data-refresh-interval="80" data-speed="3000">۴۰,۰۰۰,۰۰۰</span>
+									<span class="statistics-title">
+										ساعت حضور در دوره‌های آموزشی
+									</span>
+								</div>
+													</div>
+					
+				</div>
+			</div>
+			<div class="mb-4 container">
+				<h3 class="h5 mt-5 mx-3 text-center">موضوعات و محورهای آموزشی منتخب</h3>
+				<div class="categories mt-0 mt-lg-2">
+					<a href="/how-to-learn/programming">
+						<img alt="برنامه‌نویسی" src="https://static.faradars.org/theme/display/ilishop/media/1.db0f6ab2.svg">
+						<h5>برنامه‌نویسی</h5>
+					</a>
+					<a href="/how-to-learn/stock-and-technical-analysis">
+						<img alt="بورس و بازار سهام " src="https://static.faradars.org/theme/display/ilishop/media/2.1e608ba4.svg">
+						<h5>بورس و بازار سهام</h5>
+					</a>
+					<a href="/how-to-learn/startup-and-business">
+						<img alt="استارتاپ و کسب و کار" src="https://static.faradars.org/theme/display/ilishop/media/3.714052d8.svg">
+						<h5>استارتاپ و کسب و کار</h5>
+					</a>
+					<a href="/how-to-learn/computer-science-and-engineering">
+						<img alt="مهندسی نرم‌افزار" src="https://static.faradars.org/theme/display/ilishop/media/4.9d23f389.svg">
+						<h5>مهندسی نرم‌افزار</h5>
+					</a>
+					<a href="/how-to-learn/artificial-intelligence">
+						<img alt="هوش مصنوعی" src="https://static.faradars.org/theme/display/ilishop/media/5.135f0b0c.svg">
+						<h5>هوش مصنوعی</h5>
+					</a>
+					<a href="/how-to-learn/mathematics">
+						<img alt="ریاضیات" src="https://static.faradars.org/theme/display/ilishop/media/6.13b27e46.svg">
+						<h5>ریاضیات</h5>
+					</a>
+					<a href="/how-to-learn/humanities">
+						<img alt="علوم انسانی" src="https://static.faradars.org/theme/display/ilishop/media/7.e85cd456.svg">
+						<h5>علوم انسانی</h5>
+					</a>
+					<a href="/how-to-learn/art">
+						<img alt="هنر" src="https://static.faradars.org/theme/display/ilishop/media/8.9dea16f5.svg">
+						<h5>هنر</h5>
+					</a>
+					<a href="/how-to-learn/robotics">
+						<img alt="رباتیک" src="https://static.faradars.org/theme/display/ilishop/media/9.772d7cdc.svg">
+						<h5>رباتیک</h5>
+					</a>
+					<a href="/how-to-learn/statistics">
+						<img alt="آمار و داده‌کاوی" src="https://static.faradars.org/theme/display/ilishop/media/10.d929e29d.svg">
+						<h5>آمار و داده‌کاوی</h5>
+					</a>
+					<a href="/how-to-learn/matlab">
+						<img alt="متلب و سیمیولینک" src="https://static.faradars.org/theme/display/ilishop/media/11.8bcca9f2.svg">
+						<h5>متلب و سیمیولینک</h5>
+					</a>
+					<a href="/how-to-learn/management-courses">
+						<img alt="مدیریت" src="/theme/display/ilishop/media/management.svg">
+						<h5>مدیریت</h5>
+					</a>
+					<a href="/how-to-learn/english-language">
+						<img alt="زبان انگلیسی" src="/theme/display/ilishop/media/englishLearning.svg">
+						<h5>زبان انگلیسی</h5>
+					</a>
+
+					<a href="/how-to-learn/electrical-engineering">
+						<img alt="مهندسی برق" src="https://static.faradars.org/theme/display/ilishop/media/14.8c3d8240.svg">
+						<h5>مهندسی برق</h5>
+					</a>
+					<a href="/how-to-learn/mechanical-engineering">
+						<img alt="مهندسی مکانیک" src="https://static.faradars.org/theme/display/ilishop/media/15.f1e56d1f.svg">
+						<h5>مهندسی مکانیک</h5>
+					</a>
+					<a href="/how-to-learn/civil-engineering">
+						<img alt="مهندسی عمران" src="https://static.faradars.org/theme/display/ilishop/media/16.b819148f.svg">
+						<h5>مهندسی عمران</h5>
+					</a>
+					<a href="/how-to-learn/architect-engineering">
+						<img alt="مهندسی معماری" src="https://static.faradars.org/theme/display/ilishop/media/17.fd6b7875.svg">
+						<h5>مهندسی معماری</h5>
+					</a>
+					<a href="/how-to-learn/control-engineering">
+						<img alt="مهندسی کنترل" src="https://static.faradars.org/theme/display/ilishop/media/18.73808a18.svg">
+						<h5>مهندسی کنترل</h5>
+					</a>
+					<a href="/how-to-learn/industrial-engineering-and-operations-research">
+						<img alt="مهندسی صنایع" src="https://static.faradars.org/theme/display/ilishop/media/19.649191f7.svg">
+						<h5>مهندسی صنایع</h5>
+					</a>
+					<a href="/how-to-learn/academic-writing">
+						<img alt="نگارش آکادمیک" src="https://static.faradars.org/theme/display/ilishop/media/20.02a84d54.svg">
+						<h5>نگارش آکادمیک</h5>
+					</a>
+					<a href="/how-to-learn/microsoft-excel">
+						<img alt="اکسل" src="https://static.faradars.org/theme/display/ilishop/media/21.ae4a1186.svg">
+						<h5>اکسل</h5>
+					</a>
+					<a href="/how-to-learn/computer-graphics">
+						<img alt="طراحی و گرافیک" src="https://static.faradars.org/theme/display/ilishop/media/22.2c81fc35.svg">
+						<h5>طراحی و گرافیک</h5>
+					</a>
+					<a href="/how-to-learn/webmastering">
+						<img alt="برنامه‌نویسی وب" src="https://static.faradars.org/theme/display/ilishop/media/23.dacbc994.svg">
+						<h5>برنامه‌نویسی وب</h5>
+					</a>
+					<a href="/how-to-learn/wordpress">
+						<img alt="وردپرس" src="https://static.faradars.org/theme/display/ilishop/media/24.23c65ca0.svg">
+						<h5>وردپرس</h5>
+					</a>
+				</div>
+				<div class="text-center mt-3">
+					<a class="btn btn-sm btn-primary ml-1 mr-1 all_topics_height" href="/explore">همه آموزش‌ها</a>
+					<!-- <button type="button" class="btn btn-danger ml-1 mr-1 btn btn-secondary">پیشنهاد های ویژه</button> -->
+				</div>
+			</div>
+                            <div name="highSchool-courses" class="courses-swiper-container">
+                    <div class="py-5 position-relative container">
+                        <div class="d-flex justify-content-between mb-2">
+                            <h3 class="h5 swiper-title" data-tab-title-prefix="پرمخاطب‌ترین آموزش‌های " data-tab-title-for-all-items="آموزش‌های پرمخاطب (یک ماه اخیر)">
+                                آموزش‌های پرمخاطب (یک ماه اخیر)
+                            </h3>
+                        </div>
+
+                        <div class="products-item-nav-wrapper">
+                            <ul id="most-rated-products-nav-categories" class="nav nav-tabs products-item-list-tabs">
+                                <li class="active"><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-all" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id=""  data-toggle="tab" href="#most-rated-tab-all">همه</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-1049" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="1049"  data-toggle="tab" href="#most-rated-tab-1049">برنامه نویسی</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-2038" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="2038"  data-toggle="tab" href="#most-rated-tab-2038">یادگیری ماشین</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-196579" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="196579"  data-toggle="tab" href="#most-rated-tab-196579">بورس و بازار سهام</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-3038" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="3038"  data-toggle="tab" href="#most-rated-tab-3038">طراحی و گرافیک</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-235656" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="235656"  data-toggle="tab" href="#most-rated-tab-235656">زبان</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="most-rated-tab-23967" data-swiper_name="highSchool" data-products_type="mostRateProductMonetary" data-category_id="23967"  data-toggle="tab" href="#most-rated-tab-23967">علوم ریاضی</a></li>
+                                                            </ul>
+                        </div>
+
+                        <div id="most-rated-products-container" class="products-item-list-tab-content tab-content">
+                            <div id="most-rated-tab-all" class="tab-pane active">
+
+                                <button type="button" class="swipe-control right btn btn-link swiper-prev-highSchool">
+                                    <i class="fa fa-angle-right" ></i>
+                                </button>
+                                <div class="react-swipeable-view" style="overflow-x: hidden;">
+                                    <div class="react-swipeable-view-container " style=" transition: all 0s ease 0s; direction: rtl; will-change: transform;">
+                                        <div aria-hidden="false" class="react-swipeable-view-container-width" data-swipeable="true" style="">
+                                            <div style="direction: rtl;">
+                                                <div class="courses-cards d-flex justify-content-around justify-content-sm-start">
+                                                    <div class="swiper-container swiper-highSchool">
+                                                        <div class="swiper-wrapper">
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvpht9808-basic-of-python-programming" data-ga-course-title="SKU: fvpht9808">
+                <img src="https://faradars.org/wp-content/uploads/2019/11/FVPHT9808-svg.svg" loading="lazy" alt="آموزش برنامه نویسی پایتون Python - مقدماتی" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش برنامه نویسی پایتون Python - مقدماتی
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۵۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/1930191/add/ajax" data-ga-course-uri="/courses/fvpht9808-basic-of-python-programming" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvxl95051-microsoft-office-excel" data-ga-course-title="SKU: fvxl95051">
+                <img src="https://faradars.org/wp-content/uploads/2016/12/fvxl95051-svg.svg" loading="lazy" alt="آموزش اکسل Microsoft Office Excel 2016" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش اکسل Microsoft Office Excel 2016
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۱۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/126425/add/ajax" data-ga-course-uri="/courses/fvxl95051-microsoft-office-excel" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvtimng98012-telemarketing" data-ga-course-title="SKU: fvtimng98012">
+                <img src="https://faradars.org/wp-content/uploads/2019/08/FVTIMNG98012-svg.svg" loading="lazy" alt="آموزش بازاریابی و فروش تلفنی" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش بازاریابی و فروش تلفنی
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۱۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/1187732/add/ajax" data-ga-course-uri="/courses/fvtimng98012-telemarketing" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvwp9705-basic-of-wordpress" data-ga-course-title="SKU: fvwp9705">
+                <img src="https://faradars.org/wp-content/uploads/2018/09/FVWP9705-svg.svg" loading="lazy" alt="آموزش وردپرس WordPress - مقدماتی" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش وردپرس WordPress - مقدماتی
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۲۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/669436/add/ajax" data-ga-course-uri="/courses/fvwp9705-basic-of-wordpress" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvcp9504-c-plus-plus-programming" data-ga-course-title="SKU: fvcp9504">
+                <img src="https://faradars.org/wp-content/uploads/2016/09/fvcp9504-svg.svg" loading="lazy" alt="آموزش برنامه نویسی C++‎ سی پلاس پلاس" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش برنامه نویسی C++‎ سی پلاس پلاس
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۵۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/116960/add/ajax" data-ga-course-uri="/courses/fvcp9504-c-plus-plus-programming" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/introduction-to-adobe-premiere-fvadb001" data-ga-course-title="SKU: fvadb001">
+                <img src="https://faradars.org/wp-content/uploads/2021/04/24/FVADB001-svg.svg" loading="lazy" alt="آموزش پریمیر - تدوین و میکس ویدئو با Premier" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش پریمیر - تدوین و میکس ویدئو با Premier
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۳۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9229411/add/ajax" data-ga-course-uri="/courses/introduction-to-adobe-premiere-fvadb001" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvmth109-mathematics-i-problem-solving" data-ga-course-title="SKU: fvmth109">
+                <img src="https://faradars.org/wp-content/uploads/2018/03/FVMTH109-svg.svg" loading="lazy" alt="آموزش ریاضی عمومی ۱ + حل مثال و تست کنکور کارشناسی ارشد" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش ریاضی عمومی ۱ + حل مثال و تست کنکور کارشناسی ارشد
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۶۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/340802/add/ajax" data-ga-course-uri="/courses/fvmth109-mathematics-i-problem-solving" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvh4c94062-basic-of-web-design-using-html" data-ga-course-title="SKU: fvh4c94062">
+                <img src="https://faradars.org/wp-content/uploads/2015/11/fvh4c94062-svg.svg" loading="lazy" alt="آموزش اچ تی ام ال - طراحی وب با HTML - مقدماتی" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش اچ تی ام ال - طراحی وب با HTML - مقدماتی
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۷۵,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/44918/add/ajax" data-ga-course-uri="/courses/fvh4c94062-basic-of-web-design-using-html" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvpht9904-python-programming-language-with-example" data-ga-course-title="SKU: fvpht9904">
+                <img src="https://faradars.org/wp-content/uploads/2021/11/28/FVPHT9904-svg.svg" loading="lazy" alt="آموزش برنامه نویسی پایتون + مثال های عملی در Python" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش برنامه نویسی پایتون + مثال های عملی در Python
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۳۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/8398217/add/ajax" data-ga-course-uri="/courses/fvpht9904-python-programming-language-with-example" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvps9908-basic-of-photoshop" data-ga-course-title="SKU: fvps9908">
+                <img src="https://faradars.org/wp-content/uploads/2020/11/22/FVPS9908-svg.svg" loading="lazy" alt="آموزش مقدماتی فتوشاپ Photoshop" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش مقدماتی فتوشاپ Photoshop
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۰۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9061010/add/ajax" data-ga-course-uri="/courses/fvps9908-basic-of-photoshop" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvmsp9803-microsoft-project-2019" data-ga-course-title="SKU: fvmsp9803">
+                <img src="https://faradars.org/wp-content/uploads/2019/06/FVMSP9803-svg.svg" loading="lazy" alt="آموزش نرم افزار MSP یا Microsoft Project 2019" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش نرم افزار MSP یا Microsoft Project 2019
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۱۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/1322581/add/ajax" data-ga-course-uri="/courses/fvmsp9803-microsoft-project-2019" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/fvwd9411-ms-word-2016" data-ga-course-title="SKU: fvwd9411">
+                <img src="https://faradars.org/wp-content/uploads/2016/10/fvwd9411-svg.svg" loading="lazy" alt="آموزش نرم افزار ورد Microsoft Word 2016" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش نرم افزار ورد Microsoft Word 2016
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۰۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/76962/add/ajax" data-ga-course-uri="/courses/fvwd9411-ms-word-2016" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <a class="btn btn-sm btn-primary float-left home_page_landing_button" href="https://faradars.org/popular-courses" data-ga-key="mostRateProductMonetary-همه">
+                                        فهرست کامل آموزش‌های پرمخاطب
+                                        <i class="fa fa-angle-left" ></i>
+                                    </a>
+                                </div>
+                                <button type="button" class="swipe-control left btn btn-link swiper-next-highSchool">
+                                    <i class="fa fa-angle-left" ></i>
+                                </button>
+
+                            </div>
+                                                            <div id="most-rated-tab-1049" class="tab-pane">
+                                </div>
+                                                            <div id="most-rated-tab-2038" class="tab-pane">
+                                </div>
+                                                            <div id="most-rated-tab-196579" class="tab-pane">
+                                </div>
+                                                            <div id="most-rated-tab-3038" class="tab-pane">
+                                </div>
+                                                            <div id="most-rated-tab-235656" class="tab-pane">
+                                </div>
+                                                            <div id="most-rated-tab-23967" class="tab-pane">
+                                </div>
+                                                    </div>
+
+                    </div>
+                </div>
+
+                                    			
+                <div name="new-courses" id="home-new-courses" class="courses-swiper-container">
+                    <div class="py-5 position-relative container">
+                        <div class="d-flex justify-content-between mb-2">
+                            <h3 class="h5 swiper-title" data-tab-title-prefix="جدیدترین آموزش‌های " data-tab-title-for-all-items="جدیدترین آموزش‌ها">
+                                جدیدترین آموزش‌ها
+                            </h3>
+                        </div>
+
+                        <div class="products-item-nav-wrapper">
+                            <ul id="new-products-nav-categories" class="nav nav-tabs products-item-list-tabs">
+                                <li class="active"><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-all" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id=""  data-toggle="tab" href="#new-tab-all">همه</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-1049" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="1049"  data-toggle="tab" href="#new-tab-1049">برنامه نویسی</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-2038" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="2038"  data-toggle="tab" href="#new-tab-2038">یادگیری ماشین</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-196579" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="196579"  data-toggle="tab" href="#new-tab-196579">بورس و بازار سهام</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-3038" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="3038"  data-toggle="tab" href="#new-tab-3038">طراحی و گرافیک</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-235656" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="235656"  data-toggle="tab" href="#new-tab-235656">زبان</a></li>
+                                                                    <li><a onclick="loadCategoryProducts(this);" data-products_container_id="new-tab-23967" data-swiper_name="new" data-products_type="newProductMonetary" data-category_id="23967"  data-toggle="tab" href="#new-tab-23967">علوم ریاضی</a></li>
+                                                            </ul>
+                        </div>
+
+                        <div id="new-products-container" class="products-item-list-tab-content tab-content">
+                            <div id="new-tab-all" class="tab-pane active">
+
+                                <button type="button" class="swipe-control right btn btn-link swiper-prev-new">
+                                    <i class="fa fa-angle-right" ></i>
+                                </button>
+                                <div class="react-swipeable-view" style="overflow-x: hidden;">
+                                    <div class="react-swipeable-view-container " style=" transition: all 0s ease 0s; direction: rtl; will-change: transform;">
+                                        <div aria-hidden="false" class="react-swipeable-view-container-width" data-swipeable="true" style="">
+                                            <div style="direction: rtl;">
+                                                <div class="courses-cards d-flex justify-content-around justify-content-sm-start">
+                                                    <div class="swiper-container swiper-new">
+                                                        <div class="swiper-wrapper">
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/internet-download-manager-fvpub0111" data-ga-course-title="SKU: fvpub0111">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/24/FVPUB0111-svg.svg" loading="lazy" alt="آموزش نرم افزار اینترنت دانلود منیجر IDM" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش نرم افزار اینترنت دانلود منیجر IDM
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۳۵,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9230524/add/ajax" data-ga-course-uri="/courses/internet-download-manager-fvpub0111" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/stack-based-buffer-overflow-exploit-fvnet009" data-ga-course-title="SKU: fvnet009">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/23/FVNET009-svg.svg" loading="lazy" alt="آموزش اکسپلویت نویسی سر ریز رشته مبتنی بر پشته" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش اکسپلویت نویسی سر ریز رشته مبتنی بر پشته
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۱۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9230183/add/ajax" data-ga-course-uri="/courses/stack-based-buffer-overflow-exploit-fvnet009" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/introduction-to-convolutional-neural-network-fvcnn006" data-ga-course-title="SKU: fvcnn006">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/22/FVCNN006-svg.svg" loading="lazy" alt="آموزش آشنایی با شبکه های عصبی پیچشی + پیاده سازی CNN با فریم ورک پایتورچ برای پایتون" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش آشنایی با شبکه های عصبی پیچشی + پیاده سازی CNN با فریم ورک پایتورچ برای پایتون
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۹۵,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9229947/add/ajax" data-ga-course-uri="/courses/introduction-to-convolutional-neural-network-fvcnn006" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/project-oriented-python-tkinter-and-sqlite3-fvpht0094" data-ga-course-title="SKU: fvpht0094">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/20/FVPHT0094-svg.svg" loading="lazy" alt="آموزش پروژه محور پایتون – کار با Tkinter و SQLite3 در Python" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش پروژه محور پایتون – کار با Tkinter و SQLite3 در Python
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۰۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9230325/add/ajax" data-ga-course-uri="/courses/project-oriented-python-tkinter-and-sqlite3-fvpht0094" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/systems-tool-kit-for-modeling-and-simulation-of-aerospace-industry-fvstk9903" data-ga-course-title="SKU: fvstk9903">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/22/FVSTK9903-svg.svg" loading="lazy" alt="آموزش مقدماتی STK Systems Tool Kit برای مدل سازی و شبیه سازی در صنایع هوا و فضا و ماموریت ها" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش مقدماتی STK Systems Tool Kit برای مدل سازی و شبیه سازی در صنایع هوا و فضا و ماموریت ها
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۲۵۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/8301057/add/ajax" data-ga-course-uri="/courses/systems-tool-kit-for-modeling-and-simulation-of-aerospace-industry-fvstk9903" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/technical-analysis-with-harmonic-patterns-in-financial-markets-supplementary-fvfn0092" data-ga-course-title="SKU: fvfn0092">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/21/FVFN0092-svg.svg" loading="lazy" alt="آموزش تحلیل تکنیکال با الگوهای هارمونیک در بازارهای مالی – تکمیلی" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش تحلیل تکنیکال با الگوهای هارمونیک در بازارهای مالی – تکمیلی
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۳۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9230367/add/ajax" data-ga-course-uri="/courses/technical-analysis-with-harmonic-patterns-in-financial-markets-supplementary-fvfn0092" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
+    </div>
+
+
+                                                                                                                            <style>
+    .download {
+        height: 0px !important;
+        padding-top: 10px !important;
+    }
+    .course-card .download {
+        position: absolute;
+        left: 1px;
+        background-color: #f7f7f7;
+        right: 1px;
+        bottom: 1px;
+        cursor: pointer;
+        display: flex;
+        min-height: 46px;
+        line-height: 46px;
+        justify-content: space-around;
+        align-items: center;
+    }
+</style>
+
+    <div class="course-card grid-item upcoming_style treasure treasure-color swiper-slide"  style="margin: 0.75rem;" >
+
+        
+            <a rel="noopener noreferrer" class="card h-100 position-relative" href="https://faradars.org/courses/basic-of-process-mining-for-business-process-management-fvpm009" data-ga-course-title="SKU: fvpm009">
+                <img src="https://faradars.org/wp-content/uploads/2022/02/22/621481495d3ff-FVPM009-svg.svg" loading="lazy" alt="آموزش مقدماتی فرایندکاوی برای مدیریت فرایندهای کسب و کار" class="">
+                                                <div class="card-body card-title" style="width: 100%; overflow: hidden;">
+                    <div class="show-text-card">
+                        آموزش مقدماتی فرایندکاوی برای مدیریت فرایندهای کسب و کار
+                                            </div>
+                </div>
+                                                                <div class="card-footer d-flex justify-content-between w-auto show-footer-card " style="font-size: 0.95rem">
+                                                                        ۱۰۰,۰۰۰ تومان
+                                                            </div>
+            </a>
+
+                            <div class="options">
+                                                                        <span data-url="https://faradars.org/cart/9230348/add/ajax" data-ga-course-uri="/courses/basic-of-process-mining-for-business-process-management-fvpm009" class="addToCart fa fa-cart-plus cartItem"  ></span>
+                            <i class="fa fa-check successCart none" ></i>
+                                                            </div>
+                        
